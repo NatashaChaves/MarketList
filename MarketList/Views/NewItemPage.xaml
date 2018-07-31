@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarketList.Views.NewItemPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Produto: " Text="{Binding Produto}" FontSize="Medium" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Quantidade: " Text="{Binding Quantidade}" FontSize="Medium" HorizontalTextAlignment="Center" />
+            <Button Text="Add" Command="{Binding CadastrarItemCommand}" />
+            <ListView></ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

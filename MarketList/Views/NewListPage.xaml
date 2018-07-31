@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarketList.Views.NewListPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Nome: " Text="{Binding Nome}" FontSize="Medium" HorizontalTextAlignment="Center"/>
+            <DatePicker x:Name="Data" Date="{Binding Data}" Format="D" Margin="30, 0, 0, 30" />
+            <Button Text="Save" Command="{Binding CadastrarCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

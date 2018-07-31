@@ -1,0 +1,16 @@
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\bin\Debug\netstandard2.0\MarketList.deps.json
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\bin\Debug\netstandard2.0\MarketList.dll
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\bin\Debug\netstandard2.0\MarketList.pdb
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.csprojAssemblyReference.cache
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.csproj.CoreCompileInputs.cache
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.AssemblyInfoInputs.cache
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.AssemblyInfo.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.dll
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\MarketList.pdb
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\Views\ItemPage.xaml.g.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\natas\source\repos\MarketList\MarketList\MarketList\obj\Debug\netstandard2.0\Views\NewListPage.xaml.g.cs
